@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240828046414",
+    "firebase_url": "https://flutterappeducacao.firebaseio.com",
+    "project_id": "flutterappeducacao",
+    "storage_bucket": "flutterappeducacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240828046414:android:e393904719493b4793f71f",
+        "android_client_info": {
+          "package_name": "com.example.flutterappeducacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240828046414-s122dsp5pbdmd3g1h6gcp5m4qbgv8tlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAIIZDlhMkZ3j7i1_zlGW5EESocO9kln0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240828046414-s122dsp5pbdmd3g1h6gcp5m4qbgv8tlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
